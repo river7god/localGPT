@@ -101,8 +101,8 @@ EMBEDDING_MODEL_NAME = "hkunlp/instructor-large"  # Uses 1.5 GB of VRAM (High Ac
 #MODEL_ID = "LinkSoul/Chinese-Llama-2-7b"
 #MODEL_BASENAME = "pytorch_model-00003-of-00003.bin"
 
-MODEL_ID = "MagicHub/Chinese-llama2-alpaca-7b"
-MODEL_BASENAME = "pytorch_model-00002-of-00002.bin"
+MODEL_ID = "TheBloke/Chinese-Llama-2-7B-GGUF"
+MODEL_BASENAME = "chinese-llama-2-7b.Q2_K.gguf"
 
 #MODEL_ID = "TheBloke/Llama-2-7B-Chat-GGUF"
 #MODEL_BASENAME = "llama-2-7b-chat.Q2_K.gguf"
